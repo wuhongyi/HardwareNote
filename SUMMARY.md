@@ -6,4 +6,7 @@
 	- [运算放大器](Preamplifier/OperationalAmplifier.md)
 	- [理研前放](Preamplifier/RikenPreamplifier.md)
 * [探测器](Detector/README.md)
+	- [APD](Detector/APD.md)
 	- [CsI](Detector/CsI.md)
+	- [MPPC](Detector/MPPC.md)
+	- [PD](Detector/PD.md)

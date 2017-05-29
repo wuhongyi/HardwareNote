@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 日 5月 28 15:41:55 2017 (+0800)
+;; Last-Updated: 一 5月 29 23:07:02 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 2
+;;     Update #: 3
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -52,11 +52,17 @@
  
  
 
+## 厂家
+
+国际上生产运算放大器的厂家好几个，各家性能、价格上还是有较大的差异的。
 
 
+ANALOG  http://www.analog.com/cn/index.html  
+德州仪器  http://www.ti.com.cn/  
+mini-circuits  http://www.minicircuits.com/
 
 
-
+----
 
 参考资料：  
 [运算放大器的工作原理](http://www.21ic.com/jichuzhishi/analog/operation-amp/2013-01-07/155940.html)

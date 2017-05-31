@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 一 5月 29 23:07:02 2017 (+0800)
+;; Last-Updated: 三 5月 31 22:21:45 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 3
+;;     Update #: 6
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -60,6 +60,19 @@
 ANALOG  http://www.analog.com/cn/index.html  
 德州仪器  http://www.ti.com.cn/  
 mini-circuits  http://www.minicircuits.com/
+
+
+开环增益：
+- OPA657 160
+- AD8000
+- AD8001
+- AD8009
+- AD811
+
+
+[AD811](/pdf/AD811.pdf)
+[AD8000](/pdf/AD8000.pdf)
+[OPA657](/pdf/OPA657.pdf)
 
 
 ----

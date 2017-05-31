@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 三 5月 31 22:21:45 2017 (+0800)
+;; Last-Updated: 三 5月 31 22:40:56 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 6
+;;     Update #: 9
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -62,7 +62,7 @@ ANALOG  http://www.analog.com/cn/index.html
 mini-circuits  http://www.minicircuits.com/
 
 
-开环增益：
+开环增益：  
 - OPA657 160
 - AD8000
 - AD8001
@@ -70,15 +70,19 @@ mini-circuits  http://www.minicircuits.com/
 - AD811
 
 
-[AD811](/pdf/AD811.pdf)
-[AD8000](/pdf/AD8000.pdf)
-[OPA657](/pdf/OPA657.pdf)
+常用运放官网说明书：
+
+[AD811](/pdf/Preamplifier/AD811.pdf)  
+[AD8000](/pdf/Preamplifier/AD8000.pdf)  
+[AD8001](/pdf/Preamplifier/AD8001.pdf)  
+[AD8009](/pdf/Preamplifier/AD8009_cn.pdf)  
+[OPA657](/pdf/Preamplifier/OPA657.pdf)  
 
 
 ----
 
 参考资料：  
-[运算放大器的工作原理](http://www.21ic.com/jichuzhishi/analog/operation-amp/2013-01-07/155940.html)
+[运算放大器的工作原理](http://www.21ic.com/jichuzhishi/analog/operation-amp/2013-01-07/155940.html)  
 [放大器带宽和增益指标](https://wenku.baidu.com/view/12605aafdd3383c4bb4cd201.html)
 
 <!-- OperationalAmplifier.md ends here -->

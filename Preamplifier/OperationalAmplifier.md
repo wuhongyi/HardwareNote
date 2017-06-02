@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 三 5月 31 22:40:56 2017 (+0800)
+;; Last-Updated: 五 6月  2 17:13:14 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 9
+;;     Update #: 10
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -72,8 +72,8 @@ mini-circuits  http://www.minicircuits.com/
 
 常用运放官网说明书：
 
-[AD811](/pdf/Preamplifier/AD811.pdf)  
-[AD8000](/pdf/Preamplifier/AD8000.pdf)  
+[AD811](pdf/Preamplifier/AD811.pdf)  
+[AD8000](pdf/Preamplifier/AD8000.pdf)  
 [AD8001](/pdf/Preamplifier/AD8001.pdf)  
 [AD8009](/pdf/Preamplifier/AD8009_cn.pdf)  
 [OPA657](/pdf/Preamplifier/OPA657.pdf)  

@@ -4,12 +4,16 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 09:34:35 2017 (+0800)
-;; Last-Updated: 日 5月 28 23:03:48 2017 (+0800)
+;; Last-Updated: 三 5月 31 22:48:11 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 4
+;;     Update #: 5
 ;; URL: http://wuhongyi.cn -->
 
 # 噪声
+
+[抑制电子电路噪声的方法](/pdf/Preamplifier/抑制电子电路噪声的方法.pdf)
+
+----
 
 **接地、屏蔽和滤波是抑制电磁干扰的三大措施**
 

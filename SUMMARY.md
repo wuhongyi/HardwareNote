@@ -11,5 +11,6 @@
 * [探测器](Detector/README.md)
 	- [APD](Detector/APD.md)
 	- [CsI](Detector/CsI.md)
+	- [LaBr3](Detector/LaBr3.md)
 	- [MPPC](Detector/MPPC.md)
 	- [PD](Detector/PD.md)

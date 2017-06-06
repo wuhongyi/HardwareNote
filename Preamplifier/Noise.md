@@ -4,14 +4,14 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 09:34:35 2017 (+0800)
-;; Last-Updated: 三 5月 31 22:48:11 2017 (+0800)
+;; Last-Updated: 五 6月  2 17:20:12 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 5
+;;     Update #: 6
 ;; URL: http://wuhongyi.cn -->
 
 # 噪声
 
-[抑制电子电路噪声的方法](/pdf/Preamplifier/抑制电子电路噪声的方法.pdf)
+[抑制电子电路噪声的方法](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/抑制电子电路噪声的方法.pdf)
 
 ----
 

@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 三 5月 31 20:38:10 2017 (+0800)
-;; Last-Updated: 三 5月 31 22:35:52 2017 (+0800)
+;; Last-Updated: 五 6月  2 20:13:43 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 3
+;;     Update #: 5
 ;; URL: http://wuhongyi.cn -->
 
 # Charge Sensitive Preamplifiers
@@ -18,6 +18,9 @@
 - Si(500um thick，250mm2) 500pF 
 
 
+
+
+[HAMAMATSU Characteristics and use of Charge amplifier](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/charge_amp_kacc9001e.pdf)
 
 
 

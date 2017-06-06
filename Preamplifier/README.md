@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 09:33:23 2017 (+0800)
-;; Last-Updated: 三 5月 31 20:50:22 2017 (+0800)
+;; Last-Updated: 五 6月  2 21:29:20 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 5
+;;     Update #: 7
 ;; URL: http://wuhongyi.cn -->
 
 # 前放简介
@@ -25,6 +25,12 @@
 
 ----
 
+[ORTEC113 Scintillation Preamplifier](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ORTEC/113.pdf)  
+[ORTEC142A, B, and C Preamplifiers](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ORTEC/142A-B-C.pdf)  
+[ORTEC142AH Preamplifiers](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ORTEC/142AH.pdf)  
+[ORTEC142IH Preamplifiers](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ORTEC/142IH.pdf)  
+[ORTEC142PC Preamplifiers](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ORTEC/142PC.pdf)  
+[HAMAMATSU Application circuit examples of Si photodiode](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/si_pd_circuit_e1.pdf)
 
 
 

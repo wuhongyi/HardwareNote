@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 五 6月  2 17:19:46 2017 (+0800)
+;; Last-Updated: 四 6月  8 20:46:33 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 12
+;;     Update #: 13
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -48,8 +48,9 @@
 
 ----
 
-
- 
+- PDIP 两排插针
+- SOIC 贴片两排脚相同
+- SOT-23-5 贴片两排，一排3一排2
  
 
 ## 厂家

@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 四 6月  8 20:46:33 2017 (+0800)
+;; Last-Updated: 六 6月 10 22:31:20 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 13
+;;     Update #: 14
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -74,16 +74,35 @@ mini-circuits  http://www.minicircuits.com/
 常用运放官网说明书：
 
 [AD811](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD811.pdf)  
+[AD826](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD826.pdf)  
+[AD828](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD828.pdf)  
+[AD829](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD829.pdf)  
 [AD8000](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8000.pdf)  
-[AD8001](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8001.pdf)  
+[AD8001](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8001.pdf)
+[AD8002](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8002.pdf)  
 [AD8009](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8009_cn.pdf)  
+[AD8012](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8012.pdf)
+[ADA4817-1/ADA4817-2](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ADA4817-1_4817-2_cn.pdf)  
 [OPA657](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/OPA657.pdf)  
 
+----
+
+参考文档
+
+[运算放大器电路大全](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/运算放大器电路大全.pdf)  
+[电压电流反馈运放的比较](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/OA-30CurrentVoltageFeedbackAmplifiers.pdf)  
+
+参考PPT
+
+[集成运算放大器及其基本应用电路](https://wenku.baidu.com/view/a366b4c75fbfc77da269b18c.html)   
+[集成运算电路放大器的线性应用](https://wenku.baidu.com/view/e25d87a8b0717fd5360cdca8.html)  
 
 ----
 
 参考资料：  
 [运算放大器的工作原理](http://www.21ic.com/jichuzhishi/analog/operation-amp/2013-01-07/155940.html)  
 [放大器带宽和增益指标](https://wenku.baidu.com/view/12605aafdd3383c4bb4cd201.html)
+
+
 
 <!-- OperationalAmplifier.md ends here -->

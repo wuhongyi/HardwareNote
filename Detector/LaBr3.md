@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 二 6月  6 14:23:24 2017 (+0800)
-;; Last-Updated: 六 6月 10 16:48:48 2017 (+0800)
+;; Last-Updated: 日 6月 11 20:09:32 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 10
+;;     Update #: 14
 ;; URL: http://wuhongyi.cn -->
 
 # LaBr3
@@ -33,14 +33,22 @@ XIA算法合适参数 SL：1.0 SG：0.24 RANGE：1 TAU：0.06（500MHz）
 
 源
 - Cs137 0.662MeV
-- Co60 1.17/1.33 MeV
+- Co60 1.173/1.332 MeV
 
-高压加到+600V
+高压加到+800V，噪声在正负 1mV 多（50欧姆观察）
 
-获取参数：波形记录2048个点，PreTrigger1000个点。阈值8300，DC Offset-40
 
-通过QDC积分得到能量。
+获取参数：波形记录1024个点，PreTrigger300个点。阈值8700，DC Offset-40
+
+通过QDC积分得到能量，trigger点前20个点，trigger点后100个点。0.662MeV分辨在3.5%，1.173MeV分辨在2.8%，1.332分辨在2.6%。
+
 看到奇怪的现象，峰的右边有拖尾。
+
+
+
+
+
+
 
 
 <!-- LaBr3.md ends here -->

@@ -2,6 +2,7 @@
 
 * [简介](README.md)
 * [前放](Preamplifier/README.md)
+	- [基本电子元件](Preamplifier/BasicElectronicComponents.md)
 	- [电荷灵敏](Preamplifier/ChargeSensitivePreamplifiers.md)
 	- [电流灵敏](Preamplifier/CurrentSensitivePreamplifier.md)
 	- [噪声](Preamplifier/Noise.md)

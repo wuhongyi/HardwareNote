@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 日 6月 11 20:25:35 2017 (+0800)
+;; Last-Updated: 日 6月 11 20:59:58 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 17
+;;     Update #: 20
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -82,19 +82,21 @@ mini-circuits  http://www.minicircuits.com/
 
 常用运放官网说明书：
 
-[AD811](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD811.pdf)  
-[AD826](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD826.pdf)  
-[AD828](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD828.pdf)  
-[AD829](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD829.pdf)  
-[AD8000](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8000.pdf)  
-[AD8001](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8001.pdf)  
-[AD8002](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8002.pdf)  
-[AD8009](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8009_cn.pdf)  
-[AD8012](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8012.pdf)  
-[ADA4817-1/ADA4817-2](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ADA4817-1_4817-2_cn.pdf)  
-[OPA657](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/OPA657.pdf)  
+[AD811](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD811.pdf) 
+[AD826](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD826.pdf) 
+[AD828](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD828.pdf) 
+[AD829](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD829.pdf) 
+[AD8000](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8000.pdf) 
+[AD8001](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8001.pdf) 
+[AD8002](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8002.pdf) 
+[AD8009](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8009_cn.pdf) 
+[AD8012](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/AD8012.pdf) 
+[ADA4817-1/ADA4817-2](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/ADA4817-1_4817-2_cn.pdf) 
+[OPA657](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/OPA657.pdf) 
 
-[ADI参数搜索](http://wuhongyi.cn/HardwareNote/excel/ADI参数搜索.xlsx)
+参数列表：
+
+[ADI参数搜索.xlsx](http://wuhongyi.cn/HardwareNote/pdf/xlsx/ADI参数搜索.xlsx)
 
 ----
 

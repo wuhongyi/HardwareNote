@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 三 5月 24 21:09:32 2017 (+0800)
-;; Last-Updated: 四 6月  1 19:53:15 2017 (+0800)
+;; Last-Updated: 一 6月 12 20:30:38 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 9
+;;     Update #: 10
 ;; URL: http://wuhongyi.cn -->
 
 # CsI 探测器
@@ -49,6 +49,16 @@ PD漏流应该在几个nA才合理。
 
 侧面的处理，如果空间足够的话，用生料带往侧面捆个五六圈（或者更过的）的就可以了。如果需要包的薄一些，可以先用生料带紧密包上一两圈，主要是生料带可以包的很紧，然后包一圈10um mylar膜，外面再包一圈Taylor纸。
 
+----
+
+## 关于PSD
+
+[Pulse shape discrimination properties of Gd 3 Ga 3 Al 2 O 12 :Ce,B single crystal in comparison with CsI:Tl](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900216310130-main.pdf)
+
+
+
+
+----
 
 ## 测试
 

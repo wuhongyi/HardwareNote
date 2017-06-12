@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 5月  8 14:14:08 2017 (+0800)
-;; Last-Updated: 日 6月 11 20:59:58 2017 (+0800)
+;; Last-Updated: 一 6月 12 21:12:17 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 20
+;;     Update #: 21
 ;; URL: http://wuhongyi.cn -->
 
 # 运算放大器
@@ -54,6 +54,8 @@
 
 电压反馈放大器具有“开环增益”，电流反馈放大器则具有“开环跨阻”。与电压反馈放大器相比，电流反馈放大器具有非常宽的带宽和非常高的压摆率。与电压反馈放大器不同的是，反馈电阻在电流反馈放大器的稳定性中起着很重要的作用，这就限制了反馈电阻的选取（电阻值可以在制造商的数据手册中找到），也限制了增益设置电阻的阻值。
 
+[Current Feedback (CFB) Op Amps](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/CurrentFeedbackCFBOpAmps.pdf)  
+[Effects of Feedback Capacitance on VFB and CFB Op Amps](http://wuhongyi.cn/HardwareNote/pdf/Preamplifier/EffectsofFeedbackCapacitanceonVFBandCFBOpAmps.pdf)
 
 ----
 

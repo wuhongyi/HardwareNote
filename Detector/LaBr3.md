@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 二 6月  6 14:23:24 2017 (+0800)
-;; Last-Updated: 日 6月 11 20:09:32 2017 (+0800)
+;; Last-Updated: 一 6月 12 21:07:53 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 14
+;;     Update #: 16
 ;; URL: http://wuhongyi.cn -->
 
 # LaBr3
@@ -16,7 +16,9 @@
 文献：
 
 [High rate read-out of LaBr(Ce) scintillator with a fast digitizer](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900212002896-main.pdf)  
-[Quantitative analysis and efficiency study of PSD methods for a LaBr 3 : Ce detector](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900215016253-main.pdf)
+[Quantitative analysis and efficiency study of PSD methods for a LaBr 3 : Ce detector](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900215016253-main.pdf)  
+[Pulse-shape discrimination of La halide scintillators](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900205000070-main.pdf)  
+[Shape of intrinsic alpha pulse height spectra in lanthanide halide scintillators](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900217302255-main.pdf)
 
 
 XIA算法合适参数 SL：1.0 SG：0.24 RANGE：1 TAU：0.06（500MHz）

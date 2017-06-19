@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 三 5月 24 21:09:32 2017 (+0800)
-;; Last-Updated: 一 6月 12 20:30:38 2017 (+0800)
+;; Last-Updated: 一 6月 19 16:44:51 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 10
+;;     Update #: 11
 ;; URL: http://wuhongyi.cn -->
 
 # CsI 探测器
@@ -53,8 +53,8 @@ PD漏流应该在几个nA才合理。
 
 ## 关于PSD
 
-[Pulse shape discrimination properties of Gd 3 Ga 3 Al 2 O 12 :Ce,B single crystal in comparison with CsI:Tl](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900216310130-main.pdf)
-
+[Pulse shape discrimination properties of Gd3Ga3Al2O12 :Ce,B single crystal in comparison with CsI:Tl](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900216310130-main.pdf)  
+[Near threshold pulse shape discrimination techniques in scintillating CsI(Tl) crystals](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900204000336-main.pdf)
 
 
 

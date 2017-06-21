@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 二 6月  6 14:23:24 2017 (+0800)
-;; Last-Updated: 一 6月 12 21:07:53 2017 (+0800)
+;; Last-Updated: 三 6月 21 13:37:46 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 16
+;;     Update #: 17
 ;; URL: http://wuhongyi.cn -->
 
 # LaBr3
@@ -14,6 +14,13 @@
 关于PSD [Enhanced α-γ Discrimination in Co-doped LaBr 3 :Ce](http://wuhongyi.cn/HardwareNote/pdf/Detector/enhanced_a-g_discrimination_in_co-doped_labr3_ce.pdf)
 
 文献：
+
+Kan Yang / Peter R. Menge  
+[Performance Improvement of Large Sr2+ and Ba2+ co-doped LaBr3:Ce3+ Scintillation Crystals](http://wuhongyi.cn/HardwareNote/pdf/article/06551113.pdf)  
+[Scintillation Properties and Temperature Responses of Cs2LiLaBr6:Ce3+](http://wuhongyi.cn/HardwareNote/pdf/article/06829676.pdf)  
+[Enhanced alpha-gamma Discrimination in Co-doped LaBr3 :Ce](http://wuhongyi.cn/HardwareNote/pdf/article/07407503.pdf)  
+[Enhanced alpha-gamma Discrimination in Co-doped LaBr3 :Ce](http://wuhongyi.cn/HardwareNote/pdf/article/07431223.pdf)  
+[Design and Performance of a Compact Cs2LiLaBr6(Ce) Neutron / Gamma Detector Using Silicon Photomultipliers](http://wuhongyi.cn/HardwareNote/pdf/article/07581858.pdf)  
 
 [High rate read-out of LaBr(Ce) scintillator with a fast digitizer](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900212002896-main.pdf)  
 [Quantitative analysis and efficiency study of PSD methods for a LaBr 3 : Ce detector](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900215016253-main.pdf)  

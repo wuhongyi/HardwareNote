@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 二 6月  6 14:23:24 2017 (+0800)
-;; Last-Updated: 三 6月 21 13:37:46 2017 (+0800)
+;; Last-Updated: 四 6月 22 15:50:27 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 17
+;;     Update #: 18
 ;; URL: http://wuhongyi.cn -->
 
 # LaBr3
@@ -22,10 +22,14 @@ Kan Yang / Peter R. Menge
 [Enhanced alpha-gamma Discrimination in Co-doped LaBr3 :Ce](http://wuhongyi.cn/HardwareNote/pdf/article/07431223.pdf)  
 [Design and Performance of a Compact Cs2LiLaBr6(Ce) Neutron / Gamma Detector Using Silicon Photomultipliers](http://wuhongyi.cn/HardwareNote/pdf/article/07581858.pdf)  
 
+其它  
 [High rate read-out of LaBr(Ce) scintillator with a fast digitizer](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900212002896-main.pdf)  
 [Quantitative analysis and efficiency study of PSD methods for a LaBr 3 : Ce detector](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900215016253-main.pdf)  
 [Pulse-shape discrimination of La halide scintillators](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900205000070-main.pdf)  
 [Shape of intrinsic alpha pulse height spectra in lanthanide halide scintillators](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900217302255-main.pdf)
+
+----
+
 
 
 XIA算法合适参数 SL：1.0 SG：0.24 RANGE：1 TAU：0.06（500MHz）

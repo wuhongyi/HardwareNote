@@ -15,3 +15,4 @@
 	- [LaBr3](Detector/LaBr3.md)
 	- [MPPC](Detector/MPPC.md)
 	- [PD](Detector/PD.md)
+	- [Si](Detector/Si.md)

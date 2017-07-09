@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 二 6月  6 14:23:24 2017 (+0800)
-;; Last-Updated: 四 6月 22 15:50:27 2017 (+0800)
+;; Last-Updated: 四 7月  6 15:30:29 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 18
+;;     Update #: 22
 ;; URL: http://wuhongyi.cn -->
 
 # LaBr3
@@ -58,7 +58,14 @@ XIA算法合适参数 SL：1.0 SG：0.24 RANGE：1 TAU：0.06（500MHz）
 看到奇怪的现象，峰的右边有拖尾。
 
 
+----
 
+1英寸+xp2020PMT，噪声在正负 1 mV 以内（50欧），上升时间10ns，下降时间60ns左右。
+
+- 高压-1100V，0.662MeV分辨在3.6%（500mV信号）
+- 高压-1000V，0.662MeV分辨在3.8%（200mV信号）
+
+峰型很对称
 
 
 

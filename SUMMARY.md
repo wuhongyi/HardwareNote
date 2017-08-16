@@ -9,6 +9,7 @@
 	- [运算放大器](Preamplifier/OperationalAmplifier.md)
 	- [理研前放](Preamplifier/RikenPreamplifier.md)
 	- [电压灵敏](Preamplifier/VoltagesensitivePreamplifier.md)
+	- [相关文献](Preamplifier/Article.md)
 * [探测器](Detector/README.md)
 	- [APD](Detector/APD.md)
 	- [CsI](Detector/CsI.md)

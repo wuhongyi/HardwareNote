@@ -14,6 +14,7 @@
 	- [APD](Detector/APD.md)
 	- [CsI](Detector/CsI.md)
 	- [LaBr3](Detector/LaBr3.md)
+	- [Liquid Scintillator](Detector/LiquidScintillator.md)
 	- [MPPC](Detector/MPPC.md)
 	- [PD](Detector/PD.md)
 	- [Si](Detector/Si.md)

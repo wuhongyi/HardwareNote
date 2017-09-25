@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 日 9月 24 17:57:26 2017 (+0800)
-;; Last-Updated: 日 9月 24 18:24:46 2017 (+0800)
+;; Last-Updated: 一 9月 25 11:18:12 2017 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 2
+;;     Update #: 4
 ;; URL: http://wuhongyi.cn -->
 
 # Liquid Scintillator
@@ -24,11 +24,27 @@
 - 2013
 	- [A comparison of different discrimination parameters for the DFT-based PSD method in fast scintillators](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S1350448713003077-main.pdf)
 
+*Short/Long方法*
+
+- 2012
+	- [Neutron detection in a high gamma-ray background with EJ-301 and EJ-309 liquid scintillators](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900212007139-main.pdf)
+- 2013
+	- [Characterization of a liquid scintillator based on linear alkyl benzene for neutron detection](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900212013149-main.pdf)
+
+*比较不同探测器，不同采集卡*
+
+- 2014
+	- [Comparative Study of the Pulse Shape Discrimination (PSD) Performance of Fast Neutron Detectors](http://wuhongyi.cn/HardwareNote/pdf/article/07431178.pdf)
+
+
+
 *其它参考*
 
 - 2009
 	- [Investigation of Different Wavelets for Pulse Shape Discrimination of LSO and LuYAP Scintillators in Positron Emission Tomography](http://wuhongyi.cn/HardwareNote/pdf/article/05383058.pdf)
 	- [FFT- and DWT-Based FPGA Realization of Pulse Shape Discrimination in PET system](http://wuhongyi.cn/HardwareNote/pdf/article/04938075.pdf)
+
+
 
 
 <!-- LiquidScintillator.md ends here -->

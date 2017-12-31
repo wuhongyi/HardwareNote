@@ -19,3 +19,11 @@
 	- [MPPC/SiPM](Detector/MPPC.md)
 	- [PD](Detector/PD.md)
 	- [Si](Detector/Si.md)
+* [数字算法](Digitizer/README.md)
+	- [Trigger Filter](Digitizer/TriggerFilter.md)
+	- [Energy Filter](Digitizer/EnergyFilter.md)
+	- [CFD Filter](Digitizer/CFDFilter.md)
+
+
+
+

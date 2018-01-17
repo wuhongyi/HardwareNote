@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 1月  1 00:02:38 2018 (+0800)
-;; Last-Updated: 一 1月  1 00:30:34 2018 (+0800)
+;; Last-Updated: 三 1月 17 16:15:30 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 3
+;;     Update #: 4
 ;; URL: http://wuhongyi.cn -->
 
 # README
@@ -20,6 +20,17 @@
 
 
 ## Valentin T. JordanoV  文献
+
+
+*labZY, LLC is based in Santa Fe, New Mexico. The company was established by Valentin T. Jordanov and Thomas R. Hill. Valentin has more than thirty years experience in the field of radiation measurements and the associated electronics. Valentin is well known for his pioneering contribution in the area of Digital Pulse Processing. Tom Hill has managed large scale nuclear research projects and brings to the company valuable experience and managing skills.*
+
+> http://www.labzy.com/
+> http://www.yantel.com/
+
+```
+jordanov@yantel.com 
+jordanov@ieee.org
+```
 
 - 1993
 	- [Digital Pulse Processor Using A Moving Average Technique](http://wuhongyi.cn/HardwareNote/pdf/article/00256658.pdf)

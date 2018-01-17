@@ -23,7 +23,7 @@
 	- [Trigger Filter](Digitizer/TriggerFilter.md)
 	- [Energy Filter](Digitizer/EnergyFilter.md)
 	- [CFD Filter](Digitizer/CFDFilter.md)
-
+    - [XIA](Digitizer/XIA.md)
 
 
 

@@ -25,6 +25,6 @@
 	- [Energy Filter](Digitizer/EnergyFilter.md)
 	- [CFD Filter](Digitizer/CFDFilter.md)
     - [XIA](Digitizer/XIA.md)
-
+	- [AGET](Digitizer/AGET.md)
 
 

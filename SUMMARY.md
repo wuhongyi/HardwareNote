@@ -16,6 +16,7 @@
 	- [LaBr3](Detector/LaBr3.md)
 	- [Liquid Scintillator](Detector/LiquidScintillator.md)
 	- [Plastic Scintillator](Detector/PlasticScintillator.md)
+	- [PMT](Detector/PMT.md)
 	- [MPPC/SiPM](Detector/MPPC.md)
 	- [PD](Detector/PD.md)
 	- [Si](Detector/Si.md)

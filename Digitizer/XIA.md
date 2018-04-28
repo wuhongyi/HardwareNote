@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 三 1月 17 15:26:41 2018 (+0800)
-;; Last-Updated: 三 1月 17 16:12:49 2018 (+0800)
+;; Last-Updated: 六 4月 28 16:05:37 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 4
+;;     Update #: 5
 ;; URL: http://wuhongyi.cn -->
 
 # XIA LLC
@@ -78,7 +78,7 @@
 	- [NIMA / General purpose pulse shape analysis for fast scintillators implemented in digital readout electronics](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900215009572-main.pdf)
 - 2017
 	- [IEEE / The Role of Sample Geometry on Ultra-Low Alpha Particle Emissivity Measurements](http://wuhongyi.cn/HardwareNote/pdf/article/07765026.pdf)
-
-
+- 2018
+    - [NIMA / A Compton suppressed detector multiplicity trigger based digital DAQ for gamma-ray spectroscopy](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900218303711-main.pdf)
 
 <!-- XIA.md ends here -->

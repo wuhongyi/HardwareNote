@@ -4,20 +4,42 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 1月  1 00:02:38 2018 (+0800)
-;; Last-Updated: 三 1月 17 16:15:30 2018 (+0800)
+;; Last-Updated: 四 5月 31 05:04:25 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 4
+;;     Update #: 12
 ;; URL: http://wuhongyi.cn -->
 
 # README
 
+BOOK:
+
+- [DSP Based Data Acquisition System for Nuclear Physics](http://wuhongyi.cn/HardwareNote/pdf/book/AccNoDC674.pdf)
+- [Digital Signal Processing (Second Edition)](http://wuhongyi.cn/HardwareNote/pdf/book/book_DigitalSignalProcessing.pdf)
+- [Fast Digitizing and digital signal processing of detector signals](http://wuhongyi.cn/HardwareNote/pdf/book/FastDigitizinganddigitalsignalprocessingofdetectorsignals.pdf)
+
 文献：
 
+
+- 2011
+	- [Instruments and Experimental Techniques / On GammaRay Spectrometry Pulses Real Time Digital Shaping and Processing](http://wuhongyi.cn/HardwareNote/pdf/article/10.1134%2FS0020441211050034.pdf)
 - 2013
 	- [Algorithms for digital γ-ray spectroscopy / Zbigniew Guzik,Tomasz Krakowski](http://wuhongyi.cn/HardwareNote/pdf/article/Algorithmsfordigitalγ-rayspectroscopy.pdf)
+- 2014
+	- [NIMA / Implementation of a real-time adaptive digital shaping for nuclear spectroscopy](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900213013053-main.pdf)
+
+----
+
+## GRETINA
+
+- 2007
+	- [IEEE / Data Acquisition and Trigger System of the Gamma Ray Energy Tracking In-Beam Nuclear Array (GRETINA)](http://wuhongyi.cn/HardwareNote/pdf/article/04436499.pdf)
+- 2009
+	- [IEEE / Data Acquisition and Trigger System of the Gamma Ray Energy Tracking In-Beam Nuclear Array (GRETINA)](http://wuhongyi.cn/HardwareNote/pdf/article/04782170.pdf)
+- 2012
+	- [IEEE / Implementation and Performance of the Electronics and Computing System of the Gamma Ray Energy Tracking In-Beam Nuclear Array (GRETINA)](http://wuhongyi.cn/HardwareNote/pdf/article/06287617.pdf)
 
 
-
+----
 
 ## Valentin T. JordanoV  文献
 

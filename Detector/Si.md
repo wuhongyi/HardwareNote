@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 四 6月 22 15:40:57 2017 (+0800)
-;; Last-Updated: 五 2月 23 20:13:41 2018 (+0800)
+;; Last-Updated: 二 6月  5 01:17:35 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 4
+;;     Update #: 5
 ;; URL: http://wuhongyi.cn -->
 
 # Si
@@ -27,9 +27,9 @@
 
 
 
+*单片硅的粒子鉴别*
 
-
-
-
+- 2018
+	- [NIMA / Particle identification using digital pulse shape discrimination in a nTD silicon detector with a 1 GHz sampling digitizer](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900218304042-main.pdf)
 
 <!-- Si.md ends here -->

@@ -4,12 +4,22 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 日 9月 24 17:57:26 2017 (+0800)
-;; Last-Updated: 四 5月 31 04:55:24 2018 (+0800)
+;; Last-Updated: 三 6月 20 08:15:27 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 5
+;;     Update #: 7
 ;; URL: http://wuhongyi.cn -->
 
 # Liquid Scintillator
+
+
+## Compton edges
+
+- 1979
+	- [IEEE / ENERGY CALIBRATION OF NE-213 SCINTILLATION COUNTERS BY gamma-RAYS](http://wuhongyi.cn/HardwareNote/pdf/article/04329665.pdf)
+- 1982
+	- [NIM / GAMMA-CALIBRATION OF NE 213 SCINTILLATION COUNTERS](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-0029554X8290249X-main.pdf)
+- 2017
+[A method for calibrating the relative gamma-ray light yield of plastic scintillators](http://wuhongyi.cn/HardwareNote/pdf/article/1.4978288.pdf)
 
 
 ## 关于PSD

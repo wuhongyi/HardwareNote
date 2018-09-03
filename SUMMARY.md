@@ -17,6 +17,7 @@
 	- [Liquid Scintillator](Detector/LiquidScintillator.md)
 	- [Plastic Scintillator](Detector/PlasticScintillator.md)
 	- [PMT](Detector/PMT.md)
+	- [PPAC](Detector/PPAC.md)
 	- [MPPC/SiPM](Detector/MPPC.md)
 	- [PD](Detector/PD.md)
 	- [Si](Detector/Si.md)

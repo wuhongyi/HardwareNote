@@ -13,6 +13,7 @@
 * [探测器](Detector/README.md)
 	- [APD](Detector/APD.md)
 	- [CsI](Detector/CsI.md)
+	- [CeBr3](Detector/CeBr3.md)
 	- [LaBr3](Detector/LaBr3.md)
 	- [Liquid Scintillator](Detector/LiquidScintillator.md)
 	- [Plastic Scintillator](Detector/PlasticScintillator.md)

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>http://wuhongyi.cn/./</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/BasicElectronicComponents.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/ChargeSensitivePreamplifiers.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/CurrentSensitivePreamplifier.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/Noise.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/OperationalAmplifier.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/RikenPreamplifier.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/VoltagesensitivePreamplifier.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Preamplifier/Article.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/APD.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/CsI.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/CeBr3.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/LaBr3.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/LiquidScintillator.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/PlasticScintillator.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/PMT.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/PPAC.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/MPPC.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/PD.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/Si.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Detector/TPC.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Digitizer/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Digitizer/TriggerFilter.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Digitizer/EnergyFilter.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Digitizer/CFDFilter.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Digitizer/XIA.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Digitizer/AGET.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>

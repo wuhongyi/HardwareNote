@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 一 1月  1 00:02:38 2018 (+0800)
-;; Last-Updated: 四 5月 31 05:04:25 2018 (+0800)
+;; Last-Updated: 六 2月 23 14:35:07 2019 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 12
+;;     Update #: 13
 ;; URL: http://wuhongyi.cn -->
 
 # README
@@ -88,8 +88,14 @@ jordanov@ieee.org
 	- [Unfolding-synthesis technique for digital pulse processing. Part 1: Unfolding](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900215008694-main.pdf)
 
 
+## OTHERS
 
-
+- 2007
+	- [NIMA / A multi-channel integrated circuit for use in low- and intermediate-energy nuclear physics—HINP16C](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900207000058-main.pdf)
+- 2012
+	- [NIMA / Algorithms for pulse shape analysis using silicon detectors](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S016890021102225X-main.pdf)
+- 2017
+	- [NIMA / The GRIFFIN data acquisition system](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900217302243-main.pdf)
 
 
 

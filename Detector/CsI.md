@@ -4,15 +4,16 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 三 5月 24 21:09:32 2017 (+0800)
-;; Last-Updated: 日 9月 24 18:26:42 2017 (+0800)
+;; Last-Updated: 三 3月  6 13:52:36 2019 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 14
+;;     Update #: 15
 ;; URL: http://wuhongyi.cn -->
 
 # CsI 探测器
 
 5.4 MeV alpha 注入深度大约为 27.7 um
 
+- [Charged-particle detection efficiencies of close-packed CsI arrays](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900216313122-main.pdf)
 
 
 

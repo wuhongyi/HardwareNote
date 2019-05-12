@@ -4,12 +4,15 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 日 9月 24 17:57:26 2017 (+0800)
-;; Last-Updated: 三 6月 20 08:15:27 2018 (+0800)
+;; Last-Updated: 日 5月 12 22:23:37 2019 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 7
+;;     Update #: 8
 ;; URL: http://wuhongyi.cn -->
 
 # Liquid Scintillator
+
+- 2019
+	- [NIMA / NEDA—NEutron Detector Array](http://wuhongyi.cn/HardwareNote/pdf/article/1-s2.0-S0168900219301962-main.pdf)
 
 
 ## Compton edges
